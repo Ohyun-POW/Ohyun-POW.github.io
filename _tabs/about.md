@@ -1,8 +1,21 @@
 ---
-title: About
+title: 오현중학교 POW
 icon: fas fa-info
 order: 4
 ---
 
+![전경](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8f%2FOhyun_Middle_School.jpeg%2F540px-Ohyun_Middle_School.jpeg&f=1&nofb=1)
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+## 👋 소개
+
+오현중학교 POW는 '문제적 남자' 동아리에서 파생되어 수학 문제 풀이에 관심이 많은 오현중학교 학생들을 위한 고난이도 문제를 매주 하나씩 소개하는 사이트입니다. 특히 문제 내에는 쉬운 소문제부터 어려운 소문제까지, 모든 학생들이 한 소문제를 풀 수 있도록 하는 것이 오현중학교 POW의 특징입니다. 문제를 풀면 문제에 할당된 점수를 얻기 때문에 학생들끼리 선의의 경쟁도 펼칠 수 있고요.
+
+## ❔ POW란?
+
+POW(Problem of week)는 과학고등학교나 영재학교, 혹은 대학교에서 진행하는 하나의 행사로 학생들을 위해 매주 문제를 출제하는 행위를 일컫습니다. 각 문제마다는 3~4개의 소문제가 존재하며, 첫번째 소문제는 단순 계산 혹은 아이디어로 풀 수 있는 문제이며 그 이후로는 조금씩 생각해내기 어려운 아이디어들을 사용해야 풀 수 있습니다. 또한, 각 소문제마다는 할당된 점수가 있으며, 문제를 풀면 할당된 점수를 얻을 수 있습니다. 점수를 이용해 사람들과 경쟁할 수도 있겠죠.
+
+오현중학교 POW는 대상이 중학교인 만큼, 중학교 수학으로 풀 수 있는 문제로 준비되며 각 문제마다 최소 요구 학력이 나와있습니다. 또한, 문제는 일주일동안 풀 수 있으며 출제된 다음 주에 모범 답안 및 참가자 명단을 공개할 예정입니다.
+
+## 🙋‍♀️🙋 출제자가 되고 싶어요
+
+현재 출제자를 받고 있지 않습니다. 조금만 기다려주세요!
