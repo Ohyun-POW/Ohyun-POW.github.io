@@ -74,8 +74,8 @@ post:
   relate_posts: 더 읽을 거리
   share: 공유
   button:
-    next: 최신 순
-    previous: 오래된 순
+    next: 다음
+    previous: 이전
     copy:
       title: 링크 복사
       succeed: 성공적으로 복사되었습니다!
