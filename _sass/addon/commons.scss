@@ -58,6 +58,7 @@ body {
 h1 {
   @extend %heading;
 
+  font-weight: 700;
   font-size: 1.8rem;
 }
 
@@ -66,6 +67,7 @@ h2 {
   @extend %section;
   @extend %anchor;
 
+  font-weight: 700;
   font-size: 1.4rem;
 }
 
