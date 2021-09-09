@@ -1,6 +1,7 @@
 ---
 title: 문제 공유 게시판
 icon: fas fa-stream
+order: 5
 ---
 
 <script>
