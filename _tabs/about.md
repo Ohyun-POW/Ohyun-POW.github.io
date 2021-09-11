@@ -16,6 +16,34 @@ POW(Problem of week)는 과학고등학교나 영재학교, 혹은 대학교에�
 
 오현중학교 POW는 대상이 중학교인 만큼, 중학교 수학(필요시 일부 고등 개념)으로 풀 수 있는 문제로 준비되며 각 문제마다 최소 요구 학력이 나와있습니다. 또한, 문제는 일주일동안 풀 수 있으며 출제된 다음 주에 모범 답안 및 참가자 명단을 공개할 예정입니다.
 
+## ↕️ 난이도 설명
+
+<ul>
+	<li>
+		<p style="color: #FF0000; font-weight: 800">Challenge: 수제 문제 중 고등 이상의 수학적 능력이 필요한 극악의 난이도 문제.</p>
+	</li>
+	<li>
+		<p style="color: #990011; font-weight: 700">Extreme: 굉장히 어려운 문제. 고등 과정의 수학 개념이 풀이에 사용되는 문제.</p>
+	</li>
+	<li>
+		<p style="color: #770033; font-weight: 600">Very Hard: 상당히 어려운 문제. KMO 1차 3점 문제와 맞먹는 난이도.</p>
+	</li>
+	<li>
+		<p style="color: #550099; font-weight: 500">Hard: 어려운 문제. 하지만 위에 서술한 문제보다는 훨씬 쉬움. 중등 개념으로 풀이 가능한 최대 난이도.</p>
+	</li>
+	<li>
+		<p style="color: #3300BB; font-weight: 600">Medium: 중간 난이도. 조금의 관찰이나 아이디어로 풀 수 있는 문제.</p>
+	</li>
+	<li>
+		<p style="color: #3300EE; font-weight: 700">Easy: 쉬움 난이도. 평범한 중학교 1학년 학생의 수학적 사고력으로 풀 수 있음.</p>
+	</li>
+	<li>
+		<p style="color: #0000FF; font-weight: 800">Very Easy: 거저 주는 문제. 풀이를 유도하는 문제임.</p>
+	</li>
+</ul>
+
+추가적으로, Extreme 이상의 난이도 문제를 풀 경우 Ranking에 특별한 뱃지가 수여됨. 뱃지의 종류는 비공개.
+
 ## 🙋‍♀️🙋 출제자가 되고 싶어요
 
 현재 출제자는 다음과 같습니다.  
