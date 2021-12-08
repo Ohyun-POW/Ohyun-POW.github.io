@@ -9,7 +9,7 @@ order: 6
 |----|--------|-----|
 |**1**|👑 **Alexandra**|**7pt**|
 |2|오상민|2pt|
-|?|HMMT 운영자|Joined on Week 1|
-|?|지후|Joined on Week 1|
+|3|HMMT 운영자|0pt|
+|3|지후|0pt|
 |A|RedoC(양성진)|-|
 |A|In Your Life(이준혁)|-|
