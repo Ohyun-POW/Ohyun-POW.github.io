@@ -44,12 +44,6 @@ layout: page
 
 <div id="post-list">
 
-<div class="post-preview">
-  <h1>🌳 Ohyun POW는 환경 보존의 의무를 다할 것입니다.</h1>
-  <h3><a href="https://climateclock.world/">#ActInTime</a>에 동참해주세요!</h3>
-  <script src="https://climateclock.world/widget-v2.js" async></script>
-<climate-clock>
-</div>
 
 {% for post in posts %}
 
@@ -100,6 +94,14 @@ layout: page
 
 </div> <!-- #post-list -->
 
+
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
 {% endif %}
+
+<div class="post-preview">
+  <h1>🌳 Ohyun POW는 환경 보존의 의무를 다할 것입니다.</h1>
+  <h3><a href="https://climateclock.world/">#ActInTime</a>에 동참해주세요!</h3>
+  <script src="https://climateclock.world/widget-v2.js" async></script>
+<climate-clock>
+</div>
