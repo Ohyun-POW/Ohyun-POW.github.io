@@ -2,7 +2,7 @@
 title: 랭킹
 icon: fas fa-stream
 layout: page
-order: 6
+order: 7
 ---
 
 |Rank|유저 아이디|포인트|
