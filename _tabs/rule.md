@@ -1,6 +1,6 @@
 ---
 title: 정책
-icon: fas fa1.info
+icon: fas fa-info
 order: 5
 ---
 
